@@ -5,7 +5,7 @@ Devfolio is a personal portfolio platform developed with Next.js, Tailwind CSS, 
 ## Demo URL
 ## Project Screenshot
 
-![Devfolio Screenshot](image/screenshot.png)
+![Devfolio Screenshot](image/Portfolio.png)
 
 
 ## Features
