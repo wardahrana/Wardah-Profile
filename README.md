@@ -8,9 +8,8 @@ Devfolio is a personal portfolio platform developed with Next.js, Tailwind CSS, 
 ![Devfolio Screenshot](image/screenshot.png)
 
 # Features
-
-[React v18](https://reactjs.org) with [React Router v6](https://reactrouter.com)
-[Tailwind CSS v3](https://tailwindcss.com)
+-[React v18](https://reactjs.org) with [React Router v6](https://reactrouter.com)
+-[Tailwind CSS v3](https://tailwindcss.com)
 -Dark/Light Mode 
 -Smooth Animatios with Framer Motion
 -Contact Page
