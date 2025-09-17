@@ -1,36 +1,62 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Next.js , TailwindCSS Portfolio Project
 
-## Getting Started
+Devfolio is a personal portfolio platform developed with Next.js, Tailwind CSS, and Framer Motion. It enables developers to present their projects, technical expertise, and blog posts in an attractive and engaging way.[Project Tutorial / Reference]( https://github.com/mdalmamunit427/dev...)
 
-First, run the development server:
+##Demo URL
+## Project Screenshot
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+![Devfolio Screenshot](image/screenshot.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+##Features
+-[React v18](https://reactjs.org) with [React Router v6](https://reactrouter.com)
+-[Tailwind CSS v3](https://tailwindcss.com)
+-Dark/Light Mode 
+Smooth Animatios with Framer Motion
+-Contact Page
+- Glass Navbar
+-View Portfolios
+-View Blog Posts
+## Installation
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+To get started with Devfolio, follow these steps:
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+1. **Clone the repository:**
 
-## Learn More
+   ```bash
+   git clone https://github.com/yourusername/devfolio.git
+   cd devfolio
+   ```
 
-To learn more about Next.js, take a look at the following resources:
+2. **Install the dependencies:**
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+   Make sure you have [Node.js](https://nodejs.org/) installed. Then, run the following command to install the necessary packages:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+   ```bash
+   npm install
+   ```
 
-## Deploy on Vercel
+3. **Run the development server:**
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+   Start the development server to view the project locally:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+   ```bash
+   npm run dev
+   ```
+
+   Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
+
+4. **Build for production:**
+
+   To create an optimized production build, run:
+
+   ```bash
+   npm run build
+   ```
+
+5. **Start the production server:**
+
+   After building the project, you can start the production server with:
+
+   ```bash
+   npm start
+   ```
