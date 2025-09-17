@@ -7,7 +7,7 @@ const About = () => {
     <h1 className='text-4xl  font-bold text-center mb-8'>  About Me</h1>
     {/*Bio section */}
     <section className='mb-16'>
-      <p className='text-lg text-secondary max-w-3xl mx-auto text-center'>I'm a passionate Full Stack Developer with expertise in building  modern web applications.With a strong foundation in both frontend & backend technologies, I create seamless user experiences and robust server-side solutions.</p>
+      <p className='text-lg text-secondary max-w-3xl mx-auto text-center'>Im a passionate Full Stack Developer with expertise in building  modern web applications.With a strong foundation in both frontend & backend technologies, I create seamless user experiences and robust server-side solutions.</p>
     </section>
     {/*Skills Section */}
     <section className='mb-16'>
