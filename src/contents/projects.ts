@@ -8,6 +8,7 @@ export const projects :Project []= [
         githubLink: 'https://github.com/wardahrana/tick-tack-toe.git',
         demoLink: 'https://demo.com',
         image: '/projects/tic-tac-toe.jpg',
+        status:'Completed',
       },
       {
         title: ' Wolt App',
