@@ -17,10 +17,10 @@ const About = () => {
             <FaCode className="h-8 w-8 text-primary mb-4" />
             <h3 className='text-xl font-semibold mb-2'>Frontend</h3>
             <ul className='text-secondary space-y-2'>
-              <li>React Next.js</li>
+              <li>React /Next.js</li>
               <li>TypeScript</li>
               <li>Tailwind  CSS</li>
-              <li>HTML5 /CSS3</li>
+              <li> React-Native</li>
             </ul>
           </div>
           <div className='bg-white dark:bg-dark/50  p-6 rounded-lg shadow-md  '>
@@ -29,7 +29,6 @@ const About = () => {
             <ul className='text-secondary space-y-2'>
               <li>Nodejs</li>
               <li>Express</li>
-              <li>PostgreSQL</li>
               <li>Mongodb</li>
             </ul>
           </div>
@@ -38,9 +37,8 @@ const About = () => {
             <h3 className='text-xl font-semibold mb-2'>Tools & Others</h3>
             <ul className='text-secondary space-y-2'>
               <li>Git/GitHub</li>
-              <li>Docker</li>
-              <li>AWS</li>
-              <li>CLI/CD</li>
+              <li> Vercel </li>
+             
             </ul>
           </div>
         </div>
