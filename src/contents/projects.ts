@@ -12,7 +12,7 @@ export const projects :Project []= [
       {
         title: ' Wolt App',
         description: 'Wolt-style food delivery app clone using React Native, Expo, Reanimated, Zustand, Sentry, and a clean Git workflow plus AI Code Reviews from CodeRabbit. This is a full app build that covers UI animations, navigation architecture, cart state management, map integration, checkout flow, and performance-focused component patterns. If you’re looking to learn modern production-level React Native app structure, this is the one.',
-        technologies: ['React', 'Node.js', 'MongoDB', 'Socket.io'],
+        technologies: ['React-Native', 'Expo-Router', 'Zustand'],
         githubLink: 'https://github.com/wardahrana/wolt-react-native.git',
         demoLink: 'https://demo.com',
         image: '/projects/Wolt.png',
