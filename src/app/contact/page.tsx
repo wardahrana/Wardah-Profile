@@ -77,7 +77,7 @@ catch(error){
         <FaPhone className="w-6 h-6 text-primary"/>
         <div>
             <h3 className="font-semibold" >Phone:</h3>
-            <Link href="tel+92(15600128)"className="text-secondary hover:text-primary">+92 15600128</Link>
+            <Link href="tel+92(15600128)"className="text-secondary hover:text-primary">+92 3315200128</Link>
         </div>
          
     </div>
