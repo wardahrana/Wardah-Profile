@@ -48,30 +48,10 @@ const About = () => {
         <h2 className='section-title'>Experiences</h2>
         <div className='max-w-3xl mx-auto space-y-8'>
           <div className='bg-white dark:bg-dark/50 p-6 rounded-lg shadow-md'>
-            <h3 className='text-xl font-semibold mb-2'>Junior Full Stack Developer</h3>
-            <p className='text-primary mb-2'>Company Name . 2020 - Present</p>
+            <h3 className='text-xl font-semibold mb-2'>NAVTTC</h3>
+            <p className='text-primary mb-2'>ICG -F6/2 (institute) 2024  - Present</p>
             <ul className='text-secondary space-y-2 list-disc list-inside'>
-              <li>Led development of multiple web applications using React and Node.js</li>
-              <li>Implemented CI/CD pipelines reducing deployment time  by 50%</li>
-              <li>Learn through collegues and conducted code reviews</li>
-            </ul>
-          </div>
-          <div className='bg-white dark:bg-dark/50 p-6 rounded-lg shadow-md'>
-            <h3 className='text-xl font-semibold mb-2'>Junior Full Stack Developer</h3>
-            <p className='text-primary mb-2'>Company Name . 2020 - Present</p>
-            <ul className='text-secondary space-y-2 list-disc list-inside'>
-              <li>Led development of multiple web applications using React and Node.js</li>
-              <li>Implemented CI/CD pipelines reducing deployment time  by 50%</li>
-              <li>Learn through collegues and conducted code reviews</li>
-            </ul>
-          </div>
-          <div className='bg-white dark:bg-dark/50 p-6 rounded-lg shadow-md'>
-            <h3 className='text-xl font-semibold mb-2'> Full Stack Developer</h3>
-            <p className='text-primary mb-2'>Previous Company 2018-2020</p>
-            <ul className='text-secondary space-y-2 list-disc list-inside'>
-              <li>Developed and maintained RestfulAPIs</li>
-              <li>Build Responsive user-interfaces with modern Javascript frameworks</li>
-              <li>Optimized database queries improving performance by 40%</li>
+              <li>AI, Machine-Learning, DataScience</li>
             </ul>
           </div>
         </div>
@@ -83,7 +63,7 @@ const About = () => {
           <div className='bg-white dark:bg-dark/50 p-6 rounded-lg shadow-md'>
             <h3 className='text-xl font-semibold mb-2'>Bachelor Science in Computer Science</h3>
             <p className='text-primary mb-2'> Quaid-e-Azam University . 2022-2026</p>
-            <p className='text-sm text-gray-600'>Graduated with honors and focused on web development and Software Engineering</p>
+            <p className='text-sm text-gray-600'>Doing  BS-CS (Ongoing) with honors and focused on web development and Software Engineering</p>
           </div>
         </div>
       </section>
