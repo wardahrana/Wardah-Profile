@@ -7,7 +7,7 @@ export const projects :Project []= [
         technologies: ['HTML', 'CSS', 'JavaScript'],
         githubLink: 'https://github.com/wardahrana/tick-tack-toe.git',
         demoLink: 'https://demo.com',
-        image: '/projects/tic-tac-toe.jpg',
+        image: '/projects/tic-tac-toe (2).jpg',
         status:'Completed',
       },
       {
@@ -16,7 +16,7 @@ export const projects :Project []= [
         technologies: ['React-Native', 'Expo-Router', 'Zustand'],
         githubLink: 'https://github.com/wardahrana/wolt-react-native.git',
         demoLink: 'https://demo.com',
-        image: '/projects/Wolt.png',
+        image: '/projects/Wolt(1).jpg',
         status: 'Ongoing',
       },
       {
