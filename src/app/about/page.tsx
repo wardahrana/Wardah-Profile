@@ -61,7 +61,7 @@ const About = () => {
         <h2 className='section-title'>Education</h2>
         <div className='max-w-3xl mx-auto space-y-8'>
           <div className='bg-white dark:bg-dark/50 p-6 rounded-lg shadow-md'>
-            <h3 className='text-xl font-semibold mb-2'>Bachelor Science in Computer Science</h3>
+            <h3 className='text-xl font-semibold mb-2'>Bachelor in Computer Science</h3>
             <p className='text-primary mb-2'> Quaid-e-Azam University . 2022-2026</p>
             <p className='text-sm text-gray-600'>Doing  BS-CS (Ongoing) with honors and focused on web development and Software Engineering</p>
           </div>
